@@ -1,0 +1,12 @@
+# IDEA files
+.idea
+*.iml
+
+# Allure
+allure-results
+
+# Maven files
+target
+
+# properties
+SendMessageToArtem.properties
